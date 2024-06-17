@@ -1,6 +1,16 @@
 # ML-ReponsePrediction-LuPSMA-RIV2024
 Documentation technique et explications de ma présentation au Congrès RIV 2024 à Lyon. Sujet : prédiction de la réponse à la thérapie $^{177}$Lu-PSMA pour le cancer de la prostate résistant à la castration métastatique, via des techniques d'apprentissage automatique.
 
+## Changelog
+
+- **v1.0.0** - 2024-06-18
+  - Initial release.
+  - Added data directory structure.
+  - Implemented main scripts for data preparation, feature engineering, model training, and evaluation.
+- **To be added**
+  - main scripts of FeatureSelection.ipynb
+  - **Un document explicatif complet devrait être mis à jour la semaine prochaine**
+
 ### Structure du Projet
 
 La structure suivante présente l'organisation du projet, avec une brève description de chaque répertoire et fichier :
