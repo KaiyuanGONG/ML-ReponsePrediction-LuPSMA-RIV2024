@@ -1,0 +1,51 @@
+feature,score
+Pre-cure_Neutrophils(G/L),278.0
+Pre-cure_Leukocytes(G/L),255.0
+Pre-cure_Liver_ALP(U/L),236.0
+Std. dev: g/ml_Choline_Bone+,236.0
+Min: g/ml_Choline_Liver,203.0
+Std. dev: g/ml_Choline_Bone-,203.0
+Peak: g/ml_Choline_Kidney,202.0
+Peak: g/ml_Choline_Bone-,193.0
+Pre-cure_Liver_ASAT(U/L),186.0
+Min: g/ml_Choline_SalivaryGland,182.0
+Pelvis_Inv,174.0
+Max: g/ml_PSMA_Bone-,173.0
+Mean: g/ml_Choline_Kidney,170.0
+Std. dev: g/ml_PSMA_Bone-,168.0
+Pre-cure_Platelets(G/L),166.0
+Std. dev: g/ml_PSMA_LymphNode+,165.0
+Mean: g/ml_Choline_Bone+,164.0
+Max: g/ml_Choline_Kidney,164.0
+Min: g/ml_Choline_Bone+,161.0
+Pre-cure_Lymphocytes(G/L),154.0
+Peak: g/ml_Choline_Bone+,149.0
+AGE,145.0
+Max: g/ml_Choline_Bone+,145.0
+Mean: g/ml_PSMA_Bone-,143.0
+Max: g/ml_Choline_Bone-,142.0
+Peak: g/ml_PSMA_Kidney,137.0
+Max: g/ml_PSMA_Kidney,131.0
+Std. dev: g/ml_PSMA_SalivaryGland,129.0
+Pre-cure_Liver_Total_Bilirubin(µmol/L),129.0
+Std. dev: g/ml_PSMA_Kidney,127.0
+Peak: g/ml_Choline_Liver,127.0
+Mean: g/ml_Choline_Liver,126.0
+Pre-cure_PSA(ng/mL),124.0
+Max: g/ml_Choline_SalivaryGland,123.0
+Peak: g/ml_PSMA_Liver,120.0
+Mean: g/ml_Choline_Bone-,120.0
+Min: g/ml_Choline_Bone-,120.0
+Pre-cure_Liver_ALAT(U/L),116.0
+Pre-cure_Liver_Albumin(g/L),116.0
+Peak: g/ml_PSMA_Bone-,115.0
+Humerus_Inv,114.0
+Min: g/ml_Choline_Kidney,114.0
+Min: g/ml_PSMA_Bone-,113.0
+Min: g/ml_PSMA_Kidney,113.0
+Mean: g/ml_PSMA_LymphNode+,106.0
+Std. dev: g/ml_PSMA_Liver,104.0
+Peak: g/ml_PSMA_LymphNode+,104.0
+Std. dev: g/ml_Choline_SalivaryGland,103.0
+Std. dev: g/ml_Choline_Kidney,103.0
+Std. dev: g/ml_PSMA_LymphNode-,103.0
