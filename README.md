@@ -1,3 +1,7 @@
+----
+**Pour toute question concernant ce projet ou pour obtenir plus d'informations, veuillez contacter : kaiyuan.gong@etu.mines-ales.fr**
+----
+
 # ML-ReponsePrediction-LuPSMA-RIV2024
 Documentation technique et explications de ma présentation au Congrès RIV 2024 à Lyon. Sujet : prédiction de la réponse à la thérapie [177Lu]Lu-PSMA pour le cancer de la prostate résistant à la castration métastatique, via des techniques d'apprentissage automatique.
 
